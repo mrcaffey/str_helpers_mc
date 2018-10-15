@@ -1,4 +1,5 @@
 require "str_helpers_mc/version"
+require "str_helpers_mc/greeting"
 
 module StrHelpersMc
   def self.reversify(str)
